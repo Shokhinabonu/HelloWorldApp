@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorldApp</string>
+    <string name="ButtonText">Hello World!</string>
+    <string name="Text">Hello World! My name is Shahina and I love learning how to code mobile application!</string>
+</resources>
