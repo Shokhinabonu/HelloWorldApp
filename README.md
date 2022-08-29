@@ -1,4 +1,4 @@
-# Android Prework - HelloWorldApp*
+# Android Prework - *HelloWorldApp*
 
 Submitted by: **HelloWorldApp*
 
